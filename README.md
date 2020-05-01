@@ -13,6 +13,9 @@
 
 - https://github.com/Spark-AR-Community/SparkAR-Snippets
 #### 3rd-party wikis and documentation
+
+------------
+
 - https://github.com/Spark-AR-Community
 - https://app.gitbook.com/@sparkar-community/s/docs/
 - https://www.gowaaa.com/post/using-native-ui-picker-in-spark-ar-to-toggle-visibility-of-object-for-instagram-filters
