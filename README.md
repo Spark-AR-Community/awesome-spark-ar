@@ -5,18 +5,20 @@
 
 
 - https://sparkar.facebook.com/ar-studio/learn/documentation/guides
-####Snippets
+
+#### Snippets
 
 ------------
 
 
 - https://github.com/Spark-AR-Community/SparkAR-Snippets
-- ####3rd-party wikis and documentation
+#### 3rd-party wikis and documentation
 - https://github.com/Spark-AR-Community
 - https://app.gitbook.com/@sparkar-community/s/docs/
 - https://www.gowaaa.com/post/using-native-ui-picker-in-spark-ar-to-toggle-visibility-of-object-for-instagram-filters
 - https://billynyh.github.io/spark-ar-tv/en/
-####Tutorials and examples
+
+#### Tutorials and examples
 
 ------------
 
@@ -29,7 +31,8 @@
 - https://www.youtube.com/channel/UCYTyihvxy6KEcQrzXzp5j-w
 - https://www.youtube.com/channel/UCDEJIEZnODawQRONeYbKbMA
 - https://www.youtube.com/channel/UCtoRX-yMVpmlJFmo8i9aZyQ
- ####Open source patches
+
+#### Open source patches
 
 ------------
 
@@ -68,7 +71,8 @@
 - https://github.com/sgnm
 - https://github.com/man1
 - https://github.com//rbkavin
- ####Sponsoring / Gumroad sellers
+
+#### Sponsoring / Gumroad sellers
 
 ------------
 
@@ -81,7 +85,7 @@
 - https://gumroad.com/positlabs
 - https://gumroad.com/yegorkumachov
 - https://gumroad.com/rbkavin
-####Tutorials and examples
+#### Tutorials and examples
 
 ------------
 
