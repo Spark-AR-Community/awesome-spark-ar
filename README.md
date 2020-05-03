@@ -74,6 +74,7 @@
 - https://github.com/sgnm
 - https://github.com/man1
 - https://github.com//rbkavin
+- https://github.com/recursiveIceCreamEater/Spark-AR/tree/master/Selective%20Color
 
 #### Sponsoring / Gumroad sellers
 
