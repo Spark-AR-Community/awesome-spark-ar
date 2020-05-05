@@ -25,7 +25,7 @@
 
 ------------
 
-
+- https://www.youtube.com/c/udart
 - https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q
 - https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw
 - https://www.youtube.com/channel/UCV135m1fNj2xE6yD70CPX2w
@@ -80,7 +80,7 @@
 
 ------------
 
-
+- https://gumroad.com/udart
 - https://github.com/sponsors/positlabs
 - https://www.patreon.com/bePatron?u=20402687
 - https://gumroad.com/matesteinforth
@@ -96,3 +96,10 @@
 
 - https://billynyh.github.io/spark-ar-tv/en/
 - Other relevant resources (blender etc.)
+
+#### Streaming / events
+
+------------
+
+- https://www.twitch.tv/matesteinforth/
+- https://www.twitch.tv/pedroafonsodesign
