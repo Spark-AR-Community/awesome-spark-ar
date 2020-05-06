@@ -1,28 +1,29 @@
 # Awesome Spark AR
+Awesome Spark AR is an awesome list that curates the best Spark AR resources (snippets, scripts, tutorials, patches, streams, events). If you love to contribute to it please contact one of the contributing members.
 
-#### Official Spark AR Pages 
-
-------------
-
-
-- https://sparkar.facebook.com/ar-studio/learn/documentation/guides
-
-#### Snippets
+### Official Spark AR Pages 
 
 ------------
 
+- [Spark AR Website](https://sparkar.facebook.com/ar-studio/)
+- [Spark AR Facebook Community](https://www.facebook.com/groups/SparkARcommunity)
 
-- https://github.com/Spark-AR-Community/SparkAR-Snippets
-#### 3rd-party wikis and documentation
+### Snippets
+
+------------
+
+- [Spark AR Snippets (GitHub)](https://github.com/Spark-AR-Community/SparkAR-Snippets)
+
+### 3rd-party wikis and documentation
 
 ------------
 
 - https://github.com/Spark-AR-Community
-- https://app.gitbook.com/@sparkar-community/s/docs/
+- [Scripting Reference GitBook](https://sparkar-community.gitbook.io/docs/)
 - https://www.gowaaa.com/post/using-native-ui-picker-in-spark-ar-to-toggle-visibility-of-object-for-instagram-filters
 - https://billynyh.github.io/spark-ar-tv/en/
 
-#### Tutorials and examples
+### Tutorials and examples
 
 ------------
 
@@ -36,10 +37,9 @@
 - https://www.youtube.com/channel/UCDEJIEZnODawQRONeYbKbMA
 - https://www.youtube.com/channel/UCtoRX-yMVpmlJFmo8i9aZyQ
 
-#### Open source patches
+### Open source patches
 
 ------------
-
 
 - https://github.com/sponsors/positlabs
 - https://github.com/kunofellasleep
@@ -77,30 +77,37 @@
 - https://github.com//rbkavin
 - https://github.com/recursiveIceCreamEater/Spark-AR/tree/master/Selective%20Color
 
-#### Sponsoring / Gumroad sellers
+### Sponsoring / Shop Assets
 
 ------------
 
-- https://gumroad.com/udart
+#### Sponsoring
 - https://github.com/sponsors/positlabs
 - https://www.patreon.com/bePatron?u=20402687
+
+#### Gumroad
+- https://gumroad.com/udart
 - https://gumroad.com/matesteinforth
 - https://gumroad.com/_rayleung
 - https://gumroad.com/amazingsparkstuff
 - https://gumroad.com/positlabs
 - https://gumroad.com/yegorkumachov
 - https://gumroad.com/rbkavin
-#### Tutorials and examples
+
+### Tutorials and examples
 
 ------------
 
-
+#### Video Tutorials
 - https://billynyh.github.io/spark-ar-tv/en/
 - Other relevant resources (blender etc.)
 
-#### Streaming / events
+#### 3D
+- [Blender Beginner Modeling (Blender Guru)](https://www.youtube.com/watch?v=Hf2esGA7vCc&list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR)
+
+### Streaming / events
 
 ------------
-
-- https://www.twitch.tv/matesteinforth/
-- https://www.twitch.tv/pedroafonsodesign
+#### Twitch
+- [Mate Steinforth](https://www.twitch.tv/matesteinforth/)
+- [Pedro Afonso Design](https://www.twitch.tv/pedroafonsodesign)
