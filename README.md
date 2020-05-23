@@ -52,6 +52,7 @@ Awesome Spark AR is an awesome list that curates the best Spark AR resources (sn
 - https://github.com/data-sapiens/SparkAR-AssetsLoader
 - https://github.com/HercullesGoulart/SparkARTutoriais
 - https://github.com/gcorallo/SparkArShaders
+- https://github.com/GOWAAA/SparkAR_Water_Distortion
 - https://github.com/Jaywrkr/SparkAR
 - https://github.com/chrisError/SparkTween
 - https://github.com/juanmv94/SparkAR-FaceTrackingRecording
