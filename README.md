@@ -77,6 +77,7 @@ Awesome Spark AR is an awesome list that curates the best Spark AR resources (sn
 - https://github.com/man1
 - https://github.com//rbkavin
 - https://github.com/recursiveIceCreamEater/Spark-AR/tree/master/Selective%20Color
+- https://github.com/lealcc/sparkartools
 
 ### Sponsoring / Shop Assets
 
@@ -100,7 +101,7 @@ Awesome Spark AR is an awesome list that curates the best Spark AR resources (sn
 ------------
 
 #### Video Tutorials
-- https://billynyh.github.io/spark-ar-tv/en/
+- [Spark AR TV – Curated by @billynyh](https://billynyh.github.io/spark-ar-tv/en/)
 - Other relevant resources (blender etc.)
 
 #### 3D
