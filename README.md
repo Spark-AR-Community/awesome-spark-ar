@@ -83,9 +83,10 @@ Awesome Spark AR is an awesome list that curates the best Spark AR resources (sn
 
 ------------
 
-#### Sponsoring
-- https://github.com/sponsors/positlabs
-- https://www.patreon.com/bePatron?u=20402687
+#### Patreons / Sponsoring
+- [Josh Beckwith (Github Sponsoring)](https://github.com/sponsors/positlabs)
+- [alwayscodingsomething/Noland Chaliha (Patreon)](https://www.patreon.com/bePatron?u=20402687)
+- [Charly Bourgain (Patreon)](https://www.patreon.com/bourgadotin)
 
 #### Gumroad
 - https://gumroad.com/udart
