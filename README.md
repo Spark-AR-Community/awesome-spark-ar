@@ -34,7 +34,7 @@ Awesome Spark AR is an awesome list that curates the best Spark AR resources (sn
 - [Josh Beckwith – Creator of FastColorLUT](https://www.youtube.com/user/PositLabsX)
 - [AlwaysCodingSomething (Noland Chaliha)](https://www.youtube.com/channel/UCbrTdhiwGGECf47HLNFhoNg)
 - [Luke Hurd](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q)
-- [Udart – Introduction in Patches]https://www.youtube.com/c/udart
+- [Udart – Introduction in Patches](https://www.youtube.com/c/udart)
 - [Catalyst](https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw)
 - [Natived Filters Laboratory](https://www.youtube.com/channel/UCV135m1fNj2xE6yD70CPX2w)
 - [Шпаргалка Криэйтора](https://www.youtube.com/channel/UCYTyihvxy6KEcQrzXzp5j-w)
