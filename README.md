@@ -26,7 +26,11 @@ Awesome Spark AR is an awesome list that curates the best Spark AR resources (sn
 ### Tutorials and examples
 
 ------------
+#### Aggregator
+- [Spark AR TV – Curated by @billynyh](https://billynyh.github.io/spark-ar-tv/en/)
 
+#### Youtube Channels
+- [Scripting in Spark AR by Sohail Mehra](https://www.youtube.com/watch?v=I1PlESFdyac&list=PLJv_JJoMJYP_909N_xILwEXvbBJWLEp7r)
 - https://www.youtube.com/c/udart
 - https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q
 - https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw
@@ -36,6 +40,9 @@ Awesome Spark AR is an awesome list that curates the best Spark AR resources (sn
 - https://www.youtube.com/channel/UCYTyihvxy6KEcQrzXzp5j-w
 - https://www.youtube.com/channel/UCDEJIEZnODawQRONeYbKbMA
 - https://www.youtube.com/channel/UCtoRX-yMVpmlJFmo8i9aZyQ
+
+#### 3D Tutorials
+- [Blender Beginner Modeling (Blender Guru)](https://www.youtube.com/watch?v=Hf2esGA7vCc&list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR)
 
 ### Open source patches
 
@@ -96,17 +103,6 @@ Awesome Spark AR is an awesome list that curates the best Spark AR resources (sn
 - https://gumroad.com/positlabs
 - https://gumroad.com/yegorkumachov
 - https://gumroad.com/rbkavin
-
-### Tutorials and examples
-
-------------
-
-#### Video Tutorials
-- [Spark AR TV – Curated by @billynyh](https://billynyh.github.io/spark-ar-tv/en/)
-- Other relevant resources (blender etc.)
-
-#### 3D
-- [Blender Beginner Modeling (Blender Guru)](https://www.youtube.com/watch?v=Hf2esGA7vCc&list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR)
 
 ### Streaming / events
 
