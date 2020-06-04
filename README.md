@@ -1,7 +1,7 @@
 # Awesome Spark AR
 Awesome Spark AR is an awesome list that curates the best Spark AR resources (snippets, scripts, tutorials, patches, streams, events). If you love to contribute to it please contact one of the contributing members.
 
-### Official Spark AR Pages 
+### Official Sources
 
 ------------
 
@@ -31,15 +31,15 @@ Awesome Spark AR is an awesome list that curates the best Spark AR resources (sn
 
 #### Youtube Channels
 - [Scripting in Spark AR by Sohail Mehra](https://www.youtube.com/watch?v=I1PlESFdyac&list=PLJv_JJoMJYP_909N_xILwEXvbBJWLEp7r)
-- https://www.youtube.com/c/udart
-- https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q
-- https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw
-- https://www.youtube.com/channel/UCV135m1fNj2xE6yD70CPX2w
-- https://www.youtube.com/user/PositLabsX
-- https://www.youtube.com/channel/UCbrTdhiwGGECf47HLNFhoNg
-- https://www.youtube.com/channel/UCYTyihvxy6KEcQrzXzp5j-w
-- https://www.youtube.com/channel/UCDEJIEZnODawQRONeYbKbMA
-- https://www.youtube.com/channel/UCtoRX-yMVpmlJFmo8i9aZyQ
+- [Josh Beckwith – Creator of FastColorLUT](https://www.youtube.com/user/PositLabsX)
+- [AlwaysCodingSomething (Noland Chaliha)](https://www.youtube.com/channel/UCbrTdhiwGGECf47HLNFhoNg)
+- [Luke Hurd](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q)
+- [Udart – Introduction in Patches]https://www.youtube.com/c/udart
+- [Catalyst](https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw)
+- [Natived Filters Laboratory](https://www.youtube.com/channel/UCV135m1fNj2xE6yD70CPX2w)
+- [Шпаргалка Криэйтора](https://www.youtube.com/channel/UCYTyihvxy6KEcQrzXzp5j-w)
+- [Spark AR TV (check Aggregator section)](https://www.youtube.com/channel/UCDEJIEZnODawQRONeYbKbMA)
+- [Rbkavin Studio](https://www.youtube.com/channel/UCtoRX-yMVpmlJFmo8i9aZyQ)
 
 #### 3D Tutorials
 - [Blender Beginner Modeling (Blender Guru)](https://www.youtube.com/watch?v=Hf2esGA7vCc&list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR)
@@ -48,7 +48,7 @@ Awesome Spark AR is an awesome list that curates the best Spark AR resources (sn
 
 ------------
 
-- https://github.com/sponsors/positlabs
+- https://github.com/positlabs
 - https://github.com/kunofellasleep
 - https://github.com/pofulu/sparkar-pftween
 - https://github.com/allanberger
@@ -76,9 +76,8 @@ Awesome Spark AR is an awesome list that curates the best Spark AR resources (sn
 - https://github.com/kamend/ChuckClose-SparkAR
 - https://github.com/emre-koc/SparkAR
 - https://github.com/PowerMobileWeb/SparkArShader
-- https://github.com/MateSteinforth/AR-Studio
-- https://www.instagram.com/keeator/
-- https://github.com/keerotic/arp
+- [Mate Steinforth](https://github.com/MateSteinforth/AR-Studio)
+- [Keetapol Boonprachak](https://github.com/keerotic/arp), Extras on [Instagram](https://www.instagram.com/keeator/)
 - https://github.com/ashleymarkfletcher/spark-ar-boilerplate
 - https://github.com/sgnm
 - https://github.com/man1
