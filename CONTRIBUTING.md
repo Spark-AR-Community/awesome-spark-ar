@@ -15,3 +15,5 @@ Please ensure your pull request adheres to the following:
 * This is not meant to be used as a list to advertise your own assets. Free or open-source assets should be prioritized over paid assets if they are of similar quality and feature sets.
 
 Thanks!
+
+**Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
