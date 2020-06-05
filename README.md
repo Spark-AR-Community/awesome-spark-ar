@@ -1,5 +1,7 @@
 # Awesome Spark AR
-Awesome Spark AR is an awesome list that curates the best Spark AR resources (snippets, scripts, tutorials, patches, streams, events). If you love to contribute to it please contact one of the contributing members.
+A categorized community-driven collection of awesome Spark AR resources, assets, projects, and resources. Free assets and resources are prioritized over paid when possible.
+
+Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/Spark-AR-Community/awesome-spark-ar/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
 
 ## Content
 
