@@ -1,111 +1,43 @@
 # Awesome Spark AR
 Awesome Spark AR is an awesome list that curates the best Spark AR resources (snippets, scripts, tutorials, patches, streams, events). If you love to contribute to it please contact one of the contributing members.
 
-### Official Sources
+## Content
 
-------------
+- [Official Software Resources](#official-software-resources)
+- [Tutorials/Learning](#tutorials)
+  - [Videos](#videos)
+  - [Articles](#articles)
+  - [Streams](#streams)
+- [Example Projects](#example-projects)
+- [Patches](#tutorials)
+  - [Free Patches](#free-patches)
+  - [Paid Patches](#paid-patches)
+- [Scripts](#scripts)
+- [Miscellaneous Resources and Collections](#miscellaneous-resources-and-collections)
 
-- [Spark AR Website](https://sparkar.facebook.com/ar-studio/)
-- [Spark AR Facebook Community](https://www.facebook.com/groups/SparkARcommunity)
 
-### Snippets
+## Official Software Resources
 
-------------
+- [Spark AR Website](https://sparkar.facebook.com/ar-studio/) - The official website for Spark AR Studio. The software can be downloaded here.
+- [Spark AR Facebook Community](https://www.facebook.com/groups/SparkARcommunity/) - The official Spark AR Community forum. Used for finding inspiration, see examples, get support, and share your work with a network of creators.
+- [Spark AR Hub](https://www.facebook.com/sparkarhub/dashboard/) - Spark AR Hub is the product creators use to publish, manage, track and understand the performance of their AR effects
 
+## Tutorials
+### Videos
+### Articles
+- [Toggle Object Visibility with Native UI Picker](https://www.gowaaa.com/post/using-native-ui-picker-in-spark-ar-to-toggle-visibility-of-object-for-instagram-filters) - Using Native UI Picker to toggle visibility of object For Instagram Filters with scripts.
+### Streams
+
+## Example Projects
+
+## Patches
+### Free Patches
+### Paid Patches
+
+## Scripts
 - [Spark AR Snippets (GitHub)](https://github.com/Spark-AR-Community/SparkAR-Snippets)
 
-### 3rd-party wikis and documentation
-
-------------
-
-- https://github.com/Spark-AR-Community
-- [Scripting Reference GitBook](https://sparkar-community.gitbook.io/docs/)
-- https://www.gowaaa.com/post/using-native-ui-picker-in-spark-ar-to-toggle-visibility-of-object-for-instagram-filters
-- https://billynyh.github.io/spark-ar-tv/en/
-
-### Tutorials and examples
-
-------------
-#### Aggregator
-- [Spark AR TV – Curated by @billynyh](https://billynyh.github.io/spark-ar-tv/en/)
-
-#### Youtube Channels
-- [Scripting in Spark AR by Sohail Mehra](https://www.youtube.com/watch?v=I1PlESFdyac&list=PLJv_JJoMJYP_909N_xILwEXvbBJWLEp7r)
-- [Josh Beckwith – Creator of FastColorLUT](https://www.youtube.com/user/PositLabsX)
-- [AlwaysCodingSomething (Noland Chaliha)](https://www.youtube.com/channel/UCbrTdhiwGGECf47HLNFhoNg)
-- [Luke Hurd](https://www.youtube.com/channel/UCO6QRYjZfbYcdwwHv5vmf3Q)
-- [Udart – Introduction in Patches](https://www.youtube.com/c/udart)
-- [Catalyst](https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw)
-- [Natived Filters Laboratory](https://www.youtube.com/channel/UCV135m1fNj2xE6yD70CPX2w)
-- [Шпаргалка Криэйтора](https://www.youtube.com/channel/UCYTyihvxy6KEcQrzXzp5j-w)
-- [Spark AR TV (check Aggregator section)](https://www.youtube.com/channel/UCDEJIEZnODawQRONeYbKbMA)
-- [Rbkavin Studio](https://www.youtube.com/channel/UCtoRX-yMVpmlJFmo8i9aZyQ)
-
-#### 3D Tutorials
-- [Blender Beginner Modeling (Blender Guru)](https://www.youtube.com/watch?v=Hf2esGA7vCc&list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR)
-
-### Open source patches
-
-------------
-
-- https://github.com/positlabs
-- https://github.com/kunofellasleep
-- https://github.com/pofulu/sparkar-pftween
-- https://github.com/allanberger
-- https://github.com/fukarinka/spark-ar-patches
-- https://github.com/SparkAR-Resources
-- https://www.twitch.tv/matesteinforth
-- https://github.com/pofulu/sparkar-particle
-- https://github.com/data-sapiens/SparkAR-AssetsLoader
-- https://github.com/HercullesGoulart/SparkARTutoriais
-- https://github.com/gcorallo/SparkArShaders
-- https://github.com/GOWAAA/SparkAR_Water_Distortion
-- https://github.com/Jaywrkr/SparkAR
-- https://github.com/chrisError/SparkTween
-- https://github.com/juanmv94/SparkAR-FaceTrackingRecording
-- https://github.com/armdz/Spark-Ar
-- https://github.com/kamend/ReflectionShader-SparkAR
-- https://github.com/spleennooname/sparkar-safety-glass-script
-- https://github.com/spleennooname/sparkar-pixelate-shader
-- https://github.com/data-sapiens/SparkAR-FilterSettings
-- https://github.com/kamend/SparkAR-FeatureToWorld
-- https://github.com/lassemt/SparkAR-Example_Programmatic-Layouts
-- https://github.com/sgnm/sparkar-sampling-skin-color
-- https://github.com/kamend/StickyNose-SparkAR
-- https://github.com/sibaturaspirman/sparkar-halfmasknoiseshader
-- https://github.com/kamend/ChuckClose-SparkAR
-- https://github.com/emre-koc/SparkAR
-- https://github.com/PowerMobileWeb/SparkArShader
-- [Mate Steinforth](https://github.com/MateSteinforth/AR-Studio)
-- [Keetapol Boonprachak](https://github.com/keerotic/arp), Extras on [Instagram](https://www.instagram.com/keeator/)
-- https://github.com/ashleymarkfletcher/spark-ar-boilerplate
-- https://github.com/sgnm
-- https://github.com/man1
-- https://github.com//rbkavin
-- https://github.com/recursiveIceCreamEater/Spark-AR/tree/master/Selective%20Color
-- https://github.com/lealcc/sparkartools
-
-### Sponsoring / Shop Assets
-
-------------
-
-#### Patreons / Sponsoring
-- [Josh Beckwith (Github Sponsoring)](https://github.com/sponsors/positlabs)
-- [alwayscodingsomething/Noland Chaliha (Patreon)](https://www.patreon.com/bePatron?u=20402687)
-- [Charly Bourgain (Patreon)](https://www.patreon.com/bourgadotin)
-
-#### Gumroad
-- https://gumroad.com/udart
-- https://gumroad.com/matesteinforth
-- https://gumroad.com/_rayleung
-- https://gumroad.com/amazingsparkstuff
-- https://gumroad.com/positlabs
-- https://gumroad.com/yegorkumachov
-- https://gumroad.com/rbkavin
-
-### Streaming / events
-
-------------
-#### Twitch
-- [Mate Steinforth](https://www.twitch.tv/matesteinforth/)
-- [Pedro Afonso Design](https://www.twitch.tv/pedroafonsodesign)
+## Miscellaneous Resources and Collections
+- [Spark AR Github Community Organization](https://github.com/Spark-AR-Community) - This github organization is used for maintaining example projects and Spark AR releated scripts.
+- [Scripting Reference GitBook](https://sparkar-community.gitbook.io/docs/) - Alternative and better indexed version of the official script object reference.
+- [Spark AR TV](https://billynyh.github.io/spark-ar-tv/en/) - A categorized collection of Spark AR video tutorials.
