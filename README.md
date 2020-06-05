@@ -26,6 +26,10 @@ Awesome Spark AR is an awesome list that curates the best Spark AR resources (sn
 ### Videos
 ### Articles
 - [Toggle Object Visibility with Native UI Picker](https://www.gowaaa.com/post/using-native-ui-picker-in-spark-ar-to-toggle-visibility-of-object-for-instagram-filters) - Using Native UI Picker to toggle visibility of object For Instagram Filters with scripts.
+- [Recreating Cigarette Heaven Using Particle Systems in Spark AR Studio](https://medium.com/@leemartin/recreating-mac-demarcos-cigarette-heaven-in-spark-ar-6c959b86f36e)
+- [Tips on Integrating Music Into Spark AR Instagram Effects](https://medium.com/@leemartin/tips-on-integrating-music-into-spark-ar-instagram-effects-48a2aae1357a) - Adding audio to filters can be tricky. This article covers the limitations and rules of adding audio to effects.
+- [Revisiting the Banksy Artwork Shredder in Spark AR](https://medium.com/@leemartin/revisiting-the-banksy-artwork-shredder-in-spark-ar-8783d3ae441c) - An introduction to the Patch Editor for creating a Banksy Artwork Shredder effect.
+- [How to add instructions to an Instagram Filter](https://medium.com/@lukehurd/spark-ar-how-to-add-instructions-to-an-instagram-filter-f0aef09d52b) - Using the Patch Editor to control Instructions within an effect.
 ### Streams
 
 ## Example Projects
