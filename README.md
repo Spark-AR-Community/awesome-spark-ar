@@ -36,7 +36,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 ### Streams
 
 ## Example Projects
-- [Old Official Templates Updated for v85](https://github.com/Spark-AR-Community/SparkAR-v85-Templates) - v85 had a breaking change making some of the old official templates not work. This contains these templates updated for latest API including neck bending, joint handeling, etc,
+- [Updated Official Templates for v85](https://github.com/Spark-AR-Community/SparkAR-v85-Templates) - v85 had a breaking change making some of the old official templates not work. This contains these templates updated for latest API including neck bending, joint handeling, etc,
 
 ## Patches
 ### Free Patches
