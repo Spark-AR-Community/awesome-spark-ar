@@ -27,7 +27,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 ## Tutorials
 ### Videos
-- [Josh Beckwith's tutorials](https://www.youtube.com/playlist?list=PLAZp2Vi7Gfspzyla4RrCO6BzVzYW7Lnb-) - A playlist of tutorials for making shaders for various effects such as blur, color grading, and distortion. 
+- [Josh Beckwith's Tutorials](https://www.youtube.com/playlist?list=PLAZp2Vi7Gfspzyla4RrCO6BzVzYW7Lnb-) - A playlist of tutorials for making shaders for various effects such as blur, color grading, and distortion. 
 - [Perlin Noise and Distortion in Spark AR](https://www.youtube.com/watch?v=1do5R7UDuxI&t=50s) - Learn how to apply a Perlin noise trick to distort images.
 ### Articles
 - [Toggle Object Visibility with Native UI Picker](https://www.gowaaa.com/post/using-native-ui-picker-in-spark-ar-to-toggle-visibility-of-object-for-instagram-filters) - Using Native UI Picker to toggle visibility of object For Instagram Filters with scripts.
