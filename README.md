@@ -35,7 +35,7 @@ Awesome Spark AR is an awesome list that curates the best Spark AR resources (sn
 ### Paid Patches
 
 ## Scripts
-- [Spark AR Snippets (GitHub)](https://github.com/Spark-AR-Community/SparkAR-Snippets)
+- [Spark AR Snippets](https://github.com/Spark-AR-Community/SparkAR-Snippets) - A collection of useful code snippets that have been shared in the Spark AR Community Facebook group.
 
 ## Miscellaneous Resources and Collections
 - [Spark AR Github Community Organization](https://github.com/Spark-AR-Community) - This github organization is used for maintaining example projects and Spark AR releated scripts.
