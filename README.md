@@ -28,6 +28,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 ## Tutorials
 ### Videos
 - [Josh Beckwith's Tutorials](https://www.youtube.com/playlist?list=PLAZp2Vi7Gfspzyla4RrCO6BzVzYW7Lnb-) - A playlist of tutorials for making shaders for various effects such as blur, color grading, and distortion. 
+- [Catalyst's Beginners playlist](https://www.youtube.com/playlist?list=PLj9m1zxPP-tP-9O2rMvzKsXkw0OICQrGa) - A series of growing Spark AR guides and tutorials designed for those who may have never explored Augmented Reality before.
 - [Perlin Noise and Distortion in Spark AR](https://www.youtube.com/watch?v=1do5R7UDuxI&t=50s) - Learn how to apply a Perlin noise trick to distort images.
 ### Articles
 - [Toggle Object Visibility with Native UI Picker](https://www.gowaaa.com/post/using-native-ui-picker-in-spark-ar-to-toggle-visibility-of-object-for-instagram-filters) - Using Native UI Picker to toggle visibility of object For Instagram Filters with scripts.
@@ -44,6 +45,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Black Lives Matter](https://github.com/SparkAR-Resources/SparkAR-Black-Lives-Matter) - A template to be used and shared in support of the silence of racism and specifically highlighting, supporting, and uplifting the lives of people of color around the world.
 - [GalleryTexture](https://github.com/SparkAR-Resources/SparkAR-GalleryTexture) - A boilerplate for new users or non-scripters to start using Spark AR's Gallery Texture feature for their Instagram effects.
 - [Native UI Slider](https://github.com/SparkAR-Resources/SparkAR-NativeUI-Slider-v85) - A boilerplate for new users or non-scripters to start using Spark AR's NativeUI Slider for their effects.
+- [Melting Face Effect](https://www.facebook.com/groups/SparkARcommunity/permalink/906131896465520/?notif_id=1591269604521912&notif_t=group_post_mention&ref=notif) - A detailed project showing how to achieve a melting effect with UV coordinates.
 
 ## Patches
 ### Free Patches
