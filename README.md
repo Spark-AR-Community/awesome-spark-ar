@@ -36,7 +36,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Tips on Integrating Music Into Spark AR Instagram Effects](https://medium.com/@leemartin/tips-on-integrating-music-into-spark-ar-instagram-effects-48a2aae1357a) - Adding audio to filters can be tricky. This article covers the limitations and rules of adding audio to effects.
 - [Revisiting the Banksy Artwork Shredder in Spark AR](https://medium.com/@leemartin/revisiting-the-banksy-artwork-shredder-in-spark-ar-8783d3ae441c) - An introduction to the Patch Editor for creating a Banksy Artwork Shredder effect.
 - [How to add instructions to an Instagram Filter](https://medium.com/@lukehurd/spark-ar-how-to-add-instructions-to-an-instagram-filter-f0aef09d52b) - Using the Patch Editor to control Instructions within an effect.
-- [How to publish filters on instagram](https://medium.com/@lukehurd/how-to-publish-filters-on-instagram-e4f6c8f44823?fbclid=IwAR3kP1z2EweaPuSj-f4WTFpyJt09y-_olnrgzU6Eq5UzAPyUFopOna4D9c8).
+
 ### Streams
 - [Super Sunday Spark Streams](https://www.youtube.com/playlist?list=PLKWanMo3M_8yiG12Bfb8kuX5eoWRY3qps) - Streams where Mate Setinforth with guests cover subjects as shaders, scripting, AR creativity, etc.
 ## Example Projects
