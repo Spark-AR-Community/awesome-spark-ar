@@ -20,22 +20,24 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 
 
 ## Official Software Resources
-
-- [Spark AR Website](https://sparkar.facebook.com/ar-studio/) - The official website for Spark AR Studio. The software can be downloaded here.
 - [Spark AR Facebook Community](https://www.facebook.com/groups/SparkARcommunity/) - The official Spark AR Community forum. Used for finding inspiration, see examples, get support, and share your work with a network of creators.
 - [Spark AR Hub](https://www.facebook.com/sparkarhub/dashboard/) - Spark AR Hub is the product creators use to publish, manage, track and understand the performance of their AR effects.
+- [Spark AR Website](https://sparkar.facebook.com/ar-studio/) - The official website for Spark AR Studio. The software can be downloaded here.
 
 ## Tutorials
 ### Videos
-- [Josh Beckwith's Tutorials](https://www.youtube.com/playlist?list=PLAZp2Vi7Gfspzyla4RrCO6BzVzYW7Lnb-) - A playlist of tutorials for making shaders for various effects such as blur, color grading, and distortion. 
 - [Catalyst's Beginners playlist](https://www.youtube.com/playlist?list=PLj9m1zxPP-tP-9O2rMvzKsXkw0OICQrGa) - A series of growing Spark AR guides and tutorials designed for those who may have never explored Augmented Reality before.
+- [Josh Beckwith's Tutorials](https://www.youtube.com/playlist?list=PLAZp2Vi7Gfspzyla4RrCO6BzVzYW7Lnb-) - A playlist of tutorials for making shaders for various effects such as blur, color grading, and distortion. 
+- [Patch of the week by Udart](https://www.youtube.com/playlist?list=PLOVM-k-hXv_-QWrlzytKd0d_01SqfKK9E) - Every week Udart takes an in depth look at a patch. Some of the patches are built in, some are available for free download.
 - [Perlin Noise and Distortion in Spark AR](https://www.youtube.com/watch?v=1do5R7UDuxI&t=50s) - Learn how to apply a Perlin noise trick to distort images.
+- [Sohail Mehra's Scripting Series](https://www.youtube.com/playlist?list=PLJv_JJoMJYP_909N_xILwEXvbBJWLEp7r) - Tutorial Series on how to create effects using Scripting in JavaScript.
 ### Articles
-- [Toggle Object Visibility with Native UI Picker](https://www.gowaaa.com/post/using-native-ui-picker-in-spark-ar-to-toggle-visibility-of-object-for-instagram-filters) - Using Native UI Picker to toggle visibility of object For Instagram Filters with scripts.
-- [Recreating Cigarette Heaven Using Particle Systems in Spark AR Studio](https://medium.com/@leemartin/recreating-mac-demarcos-cigarette-heaven-in-spark-ar-6c959b86f36e).
-- [Tips on Integrating Music Into Spark AR Instagram Effects](https://medium.com/@leemartin/tips-on-integrating-music-into-spark-ar-instagram-effects-48a2aae1357a) - Adding audio to filters can be tricky. This article covers the limitations and rules of adding audio to effects.
-- [Revisiting the Banksy Artwork Shredder in Spark AR](https://medium.com/@leemartin/revisiting-the-banksy-artwork-shredder-in-spark-ar-8783d3ae441c) - An introduction to the Patch Editor for creating a Banksy Artwork Shredder effect.
 - [How to add instructions to an Instagram Filter](https://medium.com/@lukehurd/spark-ar-how-to-add-instructions-to-an-instagram-filter-f0aef09d52b) - Using the Patch Editor to control Instructions within an effect.
+- [Recreating Cigarette Heaven Using Particle Systems in Spark AR Studio](https://medium.com/@leemartin/recreating-mac-demarcos-cigarette-heaven-in-spark-ar-6c959b86f36e).
+- [Revisiting the Banksy Artwork Shredder in Spark AR](https://medium.com/@leemartin/revisiting-the-banksy-artwork-shredder-in-spark-ar-8783d3ae441c) - An introduction to the Patch Editor for creating a Banksy Artwork Shredder effect.
+- [Tips on Integrating Music Into Spark AR Instagram Effects](https://medium.com/@leemartin/tips-on-integrating-music-into-spark-ar-instagram-effects-48a2aae1357a) - Adding audio to filters can be tricky. This article covers the limitations and rules of adding audio to effects.
+- [Toggle Object Visibility with Native UI Picker](https://www.gowaaa.com/post/using-native-ui-picker-in-spark-ar-to-toggle-visibility-of-object-for-instagram-filters) - Using Native UI Picker to toggle visibility of object For Instagram Filters with scripts.
+
 
 ### Streams
 - [Super Sunday Spark Streams](https://www.youtube.com/playlist?list=PLKWanMo3M_8yiG12Bfb8kuX5eoWRY3qps) - Streams where Mate Setinforth with guests cover subjects as shaders, scripting, AR creativity, etc.
