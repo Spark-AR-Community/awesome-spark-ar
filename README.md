@@ -28,7 +28,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 ### Videos
 - [Catalyst's Beginners playlist](https://www.youtube.com/playlist?list=PLj9m1zxPP-tP-9O2rMvzKsXkw0OICQrGa) - A series of growing Spark AR guides and tutorials designed for those who may have never explored Augmented Reality before.
 - [Josh Beckwith's Tutorials](https://www.youtube.com/playlist?list=PLAZp2Vi7Gfspzyla4RrCO6BzVzYW7Lnb-) - A playlist of tutorials for making shaders for various effects such as blur, color grading, and distortion. 
-- [Patch of the week by Udart](https://www.youtube.com/playlist?list=PLOVM-k-hXv_-QWrlzytKd0d_01SqfKK9E) - Every week Udart takes an in depth look at a patch. Some of the patches are built in, some are available for free download.
+- [Patch of The Week by Udart](https://www.youtube.com/playlist?list=PLOVM-k-hXv_-QWrlzytKd0d_01SqfKK9E) - Every week Udart takes an in depth look at a patch. Some of the patches are built in, some are available for free download.
 - [Perlin Noise and Distortion in Spark AR](https://www.youtube.com/watch?v=1do5R7UDuxI&t=50s) - Learn how to apply a Perlin noise trick to distort images.
 - [Sohail Mehra's Scripting Series](https://www.youtube.com/playlist?list=PLJv_JJoMJYP_909N_xILwEXvbBJWLEp7r) - Tutorial Series on how to create effects using Scripting in JavaScript.
 ### Articles
