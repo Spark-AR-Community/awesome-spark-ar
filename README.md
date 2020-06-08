@@ -1,6 +1,6 @@
 Awesome-Spark-AR [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 =============
-A categorized community-driven collection of awesome Spark AR resources, assets, projects, and resources. Spark AR is an augmented reality platform for Mac & Windows that allows you to create AR effects for Instagram and Facebook. Free assets and resources are prioritized over paid when possible.
+A categorized community-driven collection of awesome Spark AR resources, assets, projects, and resources. [Spark AR](https://sparkar.facebook.com/ar-studio/) is an augmented reality platform for Mac & Windows that allows you to create AR effects for Instagram and Facebook. Free assets and resources are prioritized over paid when possible.
 
 Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/Spark-AR-Community/awesome-spark-ar/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
 
