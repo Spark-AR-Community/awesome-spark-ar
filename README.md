@@ -56,7 +56,9 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Fit2Rect](https://github.com/positlabs/spark-fit2rect) - Fit any texture into a rectangle of any size.
 - [Convolution](https://github.com/positlabs/spark-convolution-patch) - Convolution and other super-patches (blur, sharpen).
 - [Selective Color](https://github.com/tomaspietravallo/Spark-AR/tree/master/Selective%20Color) - Allows for the editing of specific hues separately.
+
 ### Paid Patches
+- [Reflective Glass Shader Patch](https://gumroad.com/l/ReflectveGlass) - Reflective Glass shader offers the unique possibility to render transparent objects in Spark AR with distortion and dispersion. It even renders reflection, taking the camera texture into account.
 
 ## Scripts
 - [Spark AR Snippets](https://github.com/Spark-AR-Community/SparkAR-Snippets) - A collection of useful code snippets that have been shared in the Spark AR Community Facebook group.
