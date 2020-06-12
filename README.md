@@ -7,7 +7,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 ## Content
 
 - [Official Software Resources](#official-software-resources)
-- [Tutorials/Learning](#tutorials)
+- [Learning](#learning)
   - [Videos](#videos)
   - [Articles](#articles)
   - [Streams](#streams)
@@ -24,7 +24,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Spark AR Hub](https://www.facebook.com/sparkarhub/dashboard/) - Spark AR Hub is the product creators use to publish, manage, track and understand the performance of their AR effects.
 - [Spark AR Website](https://sparkar.facebook.com/ar-studio/) - The official website for Spark AR Studio. The software can be downloaded here.
 
-## Tutorials
+## Learning
 ### Videos
 - [Catalyst's Beginners playlist](https://www.youtube.com/playlist?list=PLj9m1zxPP-tP-9O2rMvzKsXkw0OICQrGa) - A series of growing Spark AR guides and tutorials designed for those who may have never explored Augmented Reality before.
 - [Josh Beckwith's LUT Tutorials](https://www.youtube.com/playlist?list=PLAZp2Vi7GfsqWWyFWcA0bJkyp62knoOGZ) - A playlist of tutorials about using Lookup Tables (LUTs) in Spark AR.
