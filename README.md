@@ -56,6 +56,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Fit2Rect](https://github.com/positlabs/spark-fit2rect) - Fit any texture into a rectangle of any size.
 - [Convolution](https://github.com/positlabs/spark-convolution-patch) - Convolution and other super-patches (blur, sharpen).
 - [Selective Color](https://github.com/tomaspietravallo/Spark-AR/tree/master/Selective%20Color) - Allows for the editing of specific hues separately.
+- [Easy Gradient](https://gumroad.com/l/yYREv) - Create multi-dimensional gradients in the patch editor. 
 
 ### Paid Patches
 - [Reflective Glass Shader Patch](https://gumroad.com/l/ReflectveGlass) - Reflective Glass shader offers the unique possibility to render transparent objects in Spark AR with distortion and dispersion. It even renders reflection, taking the camera texture into account.
@@ -66,7 +67,8 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [PFTween](https://github.com/pofulu/sparkar-pftween) - A wrapped Spark AR animation tool.
 - [Particle](https://github.com/pofulu/sparkar-particle) - A wrapped tool for controlling emitters.
 - [AssetsLoader](https://github.com/data-sapiens/SparkAR-AssetsLoader) - Helper function for loading objects, materials, and textures.
-- [Get Texture Based On User Language](https://github.com/Spark-AR-Developers/snippets/blob/master/getTextureBasedOnUserLanguage.js) - Use different textures based on the user's language preferences
+- [Get Texture Based On User Language](https://github.com/Spark-AR-Developers/snippets/blob/master/getTextureBasedOnUserLanguage.js) - Use different textures based on the user's language preferences.
+- [Gradient Step to Easily Create Color Ramps](https://github.com/Spark-AR-Community/SparkAR-Snippets/blob/master/gradientStep.js) - Create gradients with the a similar theory used in Photoshop.
 ## Miscellaneous Resources and Collections
 - [Spark AR Github Community Organization](https://github.com/Spark-AR-Community) - This github organization is used for maintaining example projects and Spark AR releated scripts.
 - [Scripting Reference GitBook](https://sparkar-community.gitbook.io/docs/) - Alternative and better indexed version of the official script object reference.
