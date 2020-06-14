@@ -19,7 +19,7 @@ Please ensure your pull request adheres to the following:
 ## Contributing with Video Tutorial Series
 If you are contributing with a series of videos, make sure that you are linking to a Spark AR specific playlist and not a full channel as channels might contain other unrelevant subjects. If the series are covering a specific subject (such as a series on SDFs) within Spark AR it is more likely to be an awesome resoruce.
 
-## Contributing with an Script or Example Project.
+## Contributing with a Script or Example Project.
 If you are contributing with a example project, please make sure to host it on a open platform such as GitHub. If it's in a drive or dropbox folder it is harder to find and has a bigger chance of it beeing removed / not preserved.
 
 Thanks!
